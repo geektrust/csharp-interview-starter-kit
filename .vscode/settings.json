@@ -16,5 +16,6 @@
     "App/App.csproj": true,
     "App/bin": true,
     "App/obj": true,
+    "LICENSE": true
   }
 }
